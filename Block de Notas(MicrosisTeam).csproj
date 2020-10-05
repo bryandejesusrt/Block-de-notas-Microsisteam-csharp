@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C82B98ED-D074-4C2F-8F76-5DF812597E98}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Block_de_Notas_MicrosisTeam_</RootNamespace>
+    <AssemblyName>Block de Notas%28MicrosisTeam%29</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Libraries\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlockTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockTeam.designer.cs">
+      <DependentUpon>BlockTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="block.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="block.Designer.cs">
+      <DependentUpon>block.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="block.resx">
+      <DependentUpon>block.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockTeam.resx">
+      <DependentUpon>BlockTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microsisteam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microsisteam1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microsistea1m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons8-eliminar-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons8-minimizar-la-ventana-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons8-restaurar-ventana-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons8-ventana-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="multiply_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="minimize_window_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="page_properties_report_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="stopwatch_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Instagram Story - 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="news_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="opened_folder_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="save_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="save_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="save_as_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="print_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="exit_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="redo_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="undo_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="copy_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="glue_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="paste_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="delete_bin_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="chrome_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="chrome_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="checkmark_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="text_height_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="color_wheel_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="color_palette_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="settings_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zoom_in_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zoom_in_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="about_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="more_info_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="instagram_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="twitter_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="play_button_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ok_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zoom_in_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zoom_out_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="timezone_utc_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="globe_earth_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cut_40px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

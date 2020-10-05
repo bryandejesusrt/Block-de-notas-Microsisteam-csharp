@@ -1,0 +1,25 @@
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csprojAssemblyReference.cache
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block_de_Notas_MicrosisTeam_.block.resources
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\CapaPresentacion.Extras.BlockTeam.resources
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block_de_Notas_MicrosisTeam_.Properties.Resources.resources
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csproj.GenerateResource.cache
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csproj.CoreCompileInputs.cache
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\bin\Debug\Block de Notas(MicrosisTeam).exe.config
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\bin\Debug\Block de Notas(MicrosisTeam).exe
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\bin\Debug\Block de Notas(MicrosisTeam).pdb
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\bin\Debug\Guna.UI.dll
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csproj.CopyComplete
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).exe
+C:\Users\Bryant\Desktop\C#\Aplicaciones\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).pdb
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\bin\Debug\Block de Notas(MicrosisTeam).exe.config
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\bin\Debug\Block de Notas(MicrosisTeam).exe
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\bin\Debug\Block de Notas(MicrosisTeam).pdb
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csprojAssemblyReference.cache
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block_de_Notas_MicrosisTeam_.block.resources
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\CapaPresentacion.Extras.BlockTeam.resources
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block_de_Notas_MicrosisTeam_.Properties.Resources.resources
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csproj.GenerateResource.cache
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csproj.CoreCompileInputs.cache
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).csproj.CopyComplete
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).exe
+C:\Users\Bryant\Pictures\Home\C#\Aplication\Hechas\Block de Notas(MicrosisTeam)\obj\Debug\Block de Notas(MicrosisTeam).pdb
